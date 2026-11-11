@@ -1,0 +1,46 @@
+# Secrets and runtime artifacts
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*credentials*
+*credential*
+*secret*
+*token*
+*oauth*
+
+# Databases, journals, logs, and generated media
+*.db
+*.sqlite
+*.sqlite3
+*.sqlite-journal
+*.jsonl
+*.log
+*.mp4
+*.mov
+*.wav
+*.png
+*.jpg
+logs/
+runtime/
+state/
+data/
+outputs/
+videos/
+
+# Python and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+*.egg-info/
+
+# OS files
+.DS_Store
+._*
