@@ -1,7 +1,5 @@
 # Alpha Trading Floor Market Content Engine
 
-[![CI](https://github.com/WilBGit/alpha-trading-floor/actions/workflows/ci.yml/badge.svg)](https://github.com/WilBGit/alpha-trading-floor/actions/workflows/ci.yml)
-
 Alpha Trading Floor is a controlled market-research and content-production system. It combines market data, opportunity detection, drafting, validation, publication controls, reconciliation, and audience analytics in one Python service.
 
 ## What is included
