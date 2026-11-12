@@ -1,5 +1,7 @@
 # Alpha Trading Floor Market Content Engine
 
+[![CI](https://github.com/WilBGit/alpha-trading-floor/actions/workflows/ci.yml/badge.svg)](https://github.com/WilBGit/alpha-trading-floor/actions/workflows/ci.yml)
+
 Alpha Trading Floor is a controlled market-research and content-production system. It combines market data, opportunity detection, drafting, validation, publication controls, reconciliation, and audience analytics in one Python service.
 
 ## What is included
@@ -42,4 +44,4 @@ The tracked deployment template is documentation and configuration scaffolding. 
 
 ## Security
 
-This repository is private and sanitized. It excludes `.env` files, OAuth state, API tokens, database files, logs, generated videos, caches, virtual environments, and local runtime state. Read `SECURITY.md` before changing configuration or pushing code.
+This public repository is a sanitized source publication. It excludes `.env` files, OAuth state, API tokens, database files, logs, generated videos, caches, virtual environments, and local runtime state. Read `SECURITY.md` before changing configuration or pushing code.
